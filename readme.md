@@ -1,0 +1,1 @@
+An app to understand the concept of authentication using Node.js with minimum packages used.
